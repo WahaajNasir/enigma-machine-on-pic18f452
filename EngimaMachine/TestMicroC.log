@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F452 -DL -O11111114 -fo8 -N"C:\Users\wahaa\Desktop\TestMikroC\TestMicroC.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\wahaa\Desktop\TestMikroC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "TestMicroC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_ADC_A_C.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	TestMicroC.c
+diagnostics: 368	123	Compiled Successfully	TestMicroC.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 265 (17%)  Free RAM (bytes): 1250 (83%)	Used RAM (bytes): 265 (17%)  Free RAM (bytes): 1250 (83%)
+hint: 0	1144	Used ROM (bytes): 2779 (8%)  Free ROM (bytes): 29989 (92%)	Used ROM (bytes): 2779 (8%)  Free ROM (bytes): 29989 (92%)
+diagnostics: 0	125	Project Linked Successfully	TestMicroC.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'TestMicroC.mcppi' completed: 235 ms	 
+diagnostics: 0	103	Finished successfully: 22 Dec 2024, 18:41:48	TestMicroC.mcppi

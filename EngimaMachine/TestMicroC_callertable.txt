@@ -1,0 +1,13 @@
+main
+	__CC2DW
+	ADC_Read
+		Delay_22us
+	get7SegVal
+	ceaserCipher
+		Div_16x16_S
+			Div_16x16_S_L
+	morseEncode
+		get7SegVal
+		Mul_16X16_U
+	morseDecode
+		getMorseCodeBinary
