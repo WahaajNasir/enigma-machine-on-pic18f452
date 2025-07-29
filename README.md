@@ -107,6 +107,7 @@ Watch the project in action:
 
 ## 👨‍💻 Authors
 
-- Wahaaj Nasir 
+- Wahaaj Nasir
+- Syed Adnan Aijaz Bukhari
 Department of Computer & Software Engineering  
 College of E&ME, NUST Rawalpindi  
